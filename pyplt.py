@@ -30,7 +30,6 @@ plt.title( '2-D Heat Map' )
 plt.show()
 
 #             -------- MatPlotLib Crash Course freeCodeCamp.org --------
-
 # plot
 import numpy as np 
 import pandas as pd 
@@ -194,7 +193,6 @@ for box in boxes['boxes']:
 plt.title('Team Comparison')
 plt.ylabel('Overall Rating')
 plt.show()
-
 
 
 
