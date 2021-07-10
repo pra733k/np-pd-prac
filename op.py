@@ -1,6 +1,6 @@
 #          ---------    PYTHON OOPS    ---------
 
-
+# A practice code 
 class Car(): #parent class
   # Constructors are used to initialize the object. Like methods, a constructor also contains 
 	#  a collection of statements(i.e. instructions) that are executed at the time of Object creation.
